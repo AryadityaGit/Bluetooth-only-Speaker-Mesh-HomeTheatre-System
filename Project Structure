@@ -1,0 +1,12 @@
+DualBluetoothAudioPlayer/
+├── app/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/com/aryaditya/dualaudio/MainActivity.kt
+│   │       ├── res/
+│   │       │   └── values/themes.xml
+│   │       └── AndroidManifest.xml
+│   └── build.gradle
+├── build.gradle
+├── settings.gradle
+└── README.md
