@@ -19,3 +19,24 @@ Since GitHub Pages only supports static websites, we’ll need to build a web-ba
 | 🔊 Volume Control | Adjust playback volume |
 | 📂 File Picker | Option to load local audio files |
 | 🧠 No Dependencies | Pure HTML/CSS/JS — no frameworks required |
+
+
+# Dual Bluetooth Audio Player 🎧
+
+A lightweight Android app built with Kotlin + ExoPlayer to stream local audio files to two Bluetooth speakers simultaneously using Android's Dual Audio feature.
+
+## Features
+- Select and play local audio files
+- Control playback from a single Android device
+- Designed for DIY home theatre setups using Bluetooth-only speakers
+
+## Requirements
+- Android 10+
+- Dual Audio enabled in Bluetooth settings
+- Two paired Bluetooth speakers
+
+## Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/DualBluetoothAudioPlayer.git
